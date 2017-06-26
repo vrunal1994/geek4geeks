@@ -19,4 +19,7 @@ public class InsertIntoSortedLL {
        next =null;
          }
     }
+    public static void main(String [] args){
+        
+    }
 }
